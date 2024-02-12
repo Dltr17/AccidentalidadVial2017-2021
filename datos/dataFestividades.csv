@@ -1,0 +1,136 @@
+﻿Índice,mes,DiaInicio,DiaFin,año,NomDepartamento,Municipio,Orden,Nombre
+1,4,26,30,,Cesar,Valledupar,Nacional,Festival de la leyenda vallenata
+2,4,27,29,,Córdoba,planeta rica,Nacional,Concurso nacional de bandas folcloricas
+3,8,14,5,,Antioquia,Medellin,Nacional,Feria de las Flores
+4,8,17,20,,Bolívar,San Jacinto,Nacional,Festival Autoctono de gaitas de san jacinto
+5,8,18,30,,Chocó,Nuqui,Nacional,Festival de la Miracion Pacifico
+6,8,14,20,,Valle del Cauca,Cali,Nacional,Festival de Musica del Pacifico Petronio Alvarez
+7,12,16,22,,Boyacá,Tunja,Nacional,El Aguinaldo Boyacense
+8,12,15,16,,Casanare,yopal,Nacional,Torneo Internacional de Voz Recia y Contapunteo el Ciimarron de Oro
+9,12,7,9,,Guajira,San Juan del Cesar,Nacional,Festival Nacional de Compositores de Musica Vallenata
+10,12,2,9,,Quindío,Quimbaya,Nacional,Festival de Velas y Faroles
+11,12,23,31,,Sucre,Sampues,Nacional,Feria y reinado Nacional del Sombrero Vueltiao
+12,12,25,30,,Valle del Cauca,Cali,Nacional,Feria de Cali
+13,1,5,16,,Bolívar,Cartagena,Nacional,Festival Nacional de Musica Clasica
+14,1,6,14,,Caldas,Manizalez,Nacional,Feria de Manizalez
+15,1,5,8,,Cauca,Popayan,Nacional,Fiesta de Reyes
+16,1,4,16,,Chocó,Nuqui,Nacional,Fiestas del Tamborito
+17,1,2,7,,Nariño,Pasto,Nacional,"Carnaval de Negros y Blancos 2020 en Pasto, Nariño"
+18,1,13,21,,Sucre,sincelejo,Nacional,Fiestas del 20 de Enero
+19,2,10,13,2017,Atlántico,Barranquilla,Nacional,Carnaval de Barranquilla 2017
+20,2,8,13,,Nariño,tumaco,Nacional,Carnaval del Fuego
+21,2,10,13,,Tolima,Honda,Nacional,Carnaval Cultural y Reinado popular de la subienda
+22,7,30,30,,Caquetá,florencia,Nacional,Festival Folclorico de la amazonia
+23,7,13,16,,Cesar,pueblo bello,Nacional,Festival del café y la mochila arahuaca
+24,7,28,30,,Córdoba,San Pelayo,Nacional,Festival Nacional del Porro
+25,7,25,29,,Magdalena,Santa Marta,Nacional,Fiestas del Mar
+26,6,17,3,,Huila,Neiva,Nacional,Festival Folclórico y Reinado Nacional del Bambuco 2021 en Neiva
+27,6,22,30,,Quindío,calarca,Nacional,Fiesta Nacional del café
+28,6,5,2,2018,Tolima,Ibagué,Nacional,Festival Folclórico Colombiano
+29,3,25,31,,Bolívar,santa cruz de mompox,Nacional,Semana Santa
+30,3,16,28,,Boyacá,paiapa,Nacional,"Festival de la ruana, el pañolon, la almojabana y el amasijo"
+31,3,25,31,,Boyacá,Chiquinquirá,Nacional,Semana Santa
+32,3,25,31,,Boyacá,Tunja,Nacional,Semana Santa
+33,3,25,31,,Cauca,Popayan,Nacional,Semana Santa
+34,3,16,28,,Cundinamarca,Bogota,Nacional,Festival Iberoamericano de Teatro
+35,3,19,21,,Guajira,Rioacha,Nacional,Festival Francisco el hombre
+36,3,25,31,,Nariño,ipiales,Nacional,Semana Santa
+37,3,25,31,,Norte de Santander,pamplona,Nacional,Semana Santa
+38,3,25,31,,Norte de Santander,ocaña,Nacional,Semana Santa
+39,3,25,31,,Valle del Cauca,buga,Nacional,Semana Santa
+40,5,1,6,,Córdoba,santa cruz de lorica,Nacional,Festival de la cultura sinu
+41,5,11,13,,Guajira,uribia,Nacional,Festival de la cultura wayuu
+42,5,31,31,,Valle del Cauca,ginebra,Nacional,Festival de musica andina colombiana mono nuñez
+43,11,9,13,,Bolívar,Cartagena,Nacional,Fiestas del 11 de Noviembre
+44,11,9,13,,Huila,Pitalito,Nacional,Feria Nacional Artesanal Y Equina
+45,11,27,30,,Nariño,tumaco,Nacional,Festival Del Currulao
+46,11,7,9,,Putumayo,mocoa,Nacional,feria de las colonias
+47,10,13,16,,Antioquia,necocli,Nacional,Festival Nacional de Bullerengue
+48,10,2,8,,Caldas,Manizalez,Nacional,Festival Internacional de Teatro
+49,10,23,25,,Casanare,yopal,Nacional,Festival El Garcero del Llano
+50,10,15,17,,Chocó,Capurgana,Nacional,Festival de la cigua
+51,9,22,9,,Chocó,quibdo,Nacional,Fiestas de San Pacho
+52,9,8,17,,Santander,Bucaramanga,Nacional,Feria Bonita
+53,4,26,30,2017,Cesar,Valledupar,Regional,"Festival Vallenato 2017 en Valledupar, Cesar"
+54,8,11,21,2017,Antioquia,La Ceja,Regional,"Fiestas del Toldo, las Bicicletas y las Flores 2017 en La Ceja, Antioquia"
+55,8,29,29,2019,Antioquia,Sonsón,Regional,"Festival de Música Religiosa 2019 en Sonsón, Antioquia"
+56,8,19,21,2017,Boyacá,Guayatá,Regional,"Festival de la Mogolla, el Café y las Arepas 2017 en Guayatá, Boyacá"
+57,8,18,20,2018,Boyacá,Villa de Leyva,Regional,"Festival del Viento y las Cometas 2018 en Villa de Leyva, Boyacá"
+58,8,16,19,2019,Cundinamarca,Tocaima,Regional,"Festival Bajo el Cielo Panche 2019 en Tocaima, Cundinamarca"
+59,8,21,21,2017,Valle del Cauca,Cali,Regional,Festival de Música del Pacífico Petronio Álvarez 2017 en Cali
+60,8,16,20,2018,Valle del Cauca,Bugalagrande,Regional,"Fiestas del Retorno 2018 en Bugalagrande, Valle del Cauca"
+61,12,6,9,2017,Antioquia,Rionegro,Regional,"Fiestas de las Tradiciones Rionegreras 2017 en Rionegro, Antioquia"
+62,12,6,9,2021,Antioquia,Rionegro,Regional,"Fiestas de las Tradiciones Rionegreras 2021 en Rionegro, Antioquia"
+63,12,5,8,2019,Bolívar,Maria la Baja,Regional,"Festival Nacional del Bullerengue 2019 en María La Baja, Bolívar"
+64,12,29,1,2018,Boyacá,Sutatenza,Regional,"Ferias y Fiestas 2018 en Sutatenza, Boyacá"
+65,12,21,24,2019,Boyacá,Sutamarchán,Regional,"Festival Cultural 2019 en Sutamarchán, Boyacá"
+66,12,16,19,2021,Boyacá,Chiquinquirá,Regional,"Aguinaldo Chiquinquireño 2021 en Chiquinquirá, Boyacá"
+67,12,21,23,2018,Caldas,Risaralda,Regional,"Fiestas de la Fraternidad y el Civismo 2018 en Risaralda, Caldas"
+68,12,22,24,2017,Casanare,San Luis de Palenque,Regional,"Ferias y Fiestas 2017 en San Luis de Palenque, Casanare"
+69,12,1,2,2018,Cundinamarca,Chía,Regional,Chía Gastronómica 2018
+70,12,26,2,2021,Norte de Santander,Bochalema,Regional,"Ferias y Fiestas La Milagrosa 2021 en Bochalema, Norte de Santander"
+71,1,5,8,2018,Antioquia,Marinilla,Regional,"Fiestas Populares y Culturales de la Vaca en la Torre 2018 en Marinilla, Antioquia"
+72,1,5,9,2017,Boyacá,Miraflores,Regional,"Festival de la Cultura y la Colonia 2017 en Miraflores, Boyacá"
+73,1,6,9,2017,Casanare,Maní,Regional,"Festival Internacional de la Bandola Llanera 2017 en Maní, Casanare"
+74,1,4,6,2019,Cundinamarca,Viotá,Regional,"Festival Cultural y Turístico San Gabriel 2019 en Viotá, Cundinamarca"
+75,1,24,27,2020,Cundinamarca,Guaduas,Regional,"Fiestas de La Pola 2020 en Villa de Guaduas, Cundinamarca"
+76,1,3,7,2020,Putumayo,Orito,Regional,"Carnaval Multicultural de Alegría y Paz 2020 en Orito, Putumayo"
+77,1,18,22,2018,Santander,Oiba,Regional,"Ferias y Fiestas 2018 en Oiba, Santander"
+78,2,24,26,2017,Boyacá,Motavita,Regional,"Ferias y Fiestas 2017 en Motavita, Boyacá"
+79,2,28,2,2020,Boyacá,Cómbita,Regional,"Ferias y Fiestas 2020 en Cómbita, Boyacá"
+80,2,1,4,2018,Santander,Santo Domingo de los Silios,Regional,"Ferias y Fiestas 2018 en Santo Domingo de Silos, Norte de Santander"
+81,2,7,11,2019,Santander,San jose de Miranda,Regional,"Ferias y Fiestas 2019 en San José de Miranda, Santander"
+82,7,26,30,2017,Antioquia,Vegachí,Regional,Carnaval de la Dulzura
+83,7,27,29,2018,Antioquia,Copacabana,Regional,"Fiestas de la Naranja 2018 en Copacabana, Antioquia"
+84,7,1,3,2017,Caldas,Pácora,Regional,"Encuentro de Colonias San Bartolomé 2017 en Pácora, Caldas"
+85,7,26,27,2019,Quindío,Filandia,Regional,"Festival Nacional de Música Andina Colombiana El Turpial Cafetero 2019 en Filandia, Quindío"
+86,6,22,24,2018,Antioquia,Marinilla,Regional,"Fiesta de los Panaderos 2018 en Marinilla, Antioquia"
+87,6,28,1,2019,Antioquia,Anzá,Regional,"Fiestas del Cacique Curumé 2019 en Anzá, Antioquia"
+88,6,16,19,2017,Boyacá,Gaceno,Regional,"Festival del Queso 2017 en San Luis de Gaceno, Boyacá"
+89,6,1,3,2019,Boyacá,Boyacá,Regional,"Ferias y Fiestas 2019 en Boyacá, Boyacá"
+90,6,29,1,2019,Boyacá,Tibasosa,Regional,"Festival de la Feijoa 2019 en Tibasosa, Boyacá"
+91,6,21,23,2019,Caldas,La Dorada,Regional,"Festival de la Charca 2019 en La Dorada, Caldas"
+92,6,23,26,2017,Cundinamarca,Anolaima,Regional,"Corpus Christi 2017 en Anolaima, Cundinamarca"
+93,6,27,2,2018,Cundinamarca,San Juan de Rio Seco,Regional,"Ferias y Fiestas 2018 en San Juan de Rio Seco, Cundinamarca"
+94,3,22,26,2019,Cundinamarca,Viotá,Regional,"Festival Cultural y Feria de Regiones Cafeteras 2019 en Viotá, Cundinamarca"
+95,3,12,19,2018,Tolima,Ibagué,Regional,"Festival Nacional de la Música Colombiana 2018 en Ibagué, Tolima"
+96,5,31,2,2019,Córdoba,Cererté,Regional,"Festival Nacional de la Cumbiamba 2019 en Cererté, Córdoba"
+97,5,11,15,2018,Cundinamarca,Viotá,Regional,"Festival de la Piña 2018 en Viotá, Cundinamarca"
+98,5,27,28,2017,Meta,Mesetas,Regional,"Festival Folclórico y Turístico La Meseta de Oro 2017 en Mesetas, Meta"
+99,11,3,6,2017,Antioquia,Caramanta,Regional,"Fiestas de la Ruana 2017 en Caramanta, Antioquia"
+100,11,2,3,2018,Caldas,Villamaría,Regional,"Festival de Música Colombiana 2018 en Villamaría, Caldas"
+101,11,9,12,2018,Cauca,Bolivar,Regional,"Fiestas del Agua 2018 en Bolívar, Valle del Cauca"
+102,11,9,12,2017,Cundinamarca,Vianí,Regional,"Concurso Nacional de Banda Tradicional Fiestera 2017 en Vianí, Cundinamarca"
+103,11,8,10,2019,Meta,Puerto López,Regional,"Festival del Canoero 2019 en Puerto López, Meta"
+104,11,1,3,2019,Risaralda,Pereira,Regional,"Concurso Nacional del Bambuco 2019 en Pereira, Risaralda"
+105,10,12,14,2018,Antioquia,Anzá,Regional,"Fiestas del Campesino 2018 en Anzá, Antioquia"
+106,10,6,14,2019,Antioquia,Abejorral,Regional,"Fiestas del Arco 2019 en Abejorral, Antioquia"
+107,10,12,13,2019,Boyacá,Ventaquemada,Regional,"Festival de la Arepa 2019 en Ventaquemada, Boyacá"
+108,10,29,31,2021,Boyacá,Otanche,Regional,"Festival Campesino 2021 en Otanche, Boyacá"
+109,10,15,17,2021,Boyacá,Tibaná,Regional,"Festival Cultural y de la Arriería 2021 en Tibaná, Boyacá"
+110,10,13,16,2017,Cundinamarca,Vega,Regional,"Concurso Nacional de Bandas Musicales 2017 en La Vega, Cundinamarca"
+111,10,10,14,2018,Cundinamarca,Girardot,Regional,"Reinado Nacional del Turismo 2018 en Girardot, Cundinamarca"
+112,10,8,11,2020,Meta,Acacías,Regional,"Torneo Internacional del Joropo y Festival del Retorno 2020 en Acacías, Meta"
+113,10,20,21,2017,Norte de Santander,Cucuta,Regional,"Festival Vallenato La Perla del Norte 2017 en Cúcuta, Norte de Santander"
+114,10,17,20,2019,Tolima,Ibague,Regional,Festival de Aves del Tolima 2019 en Ibagué
+115,9,29,30,2017,Caldas,San José,Regional,"Fiesta del Campesino 2017 en San José, Caldas"
+116,9,17,23,2018,Cundinamarca,Guatavita,Regional,"Festival del Dorado La Cacica 2018 en Guatavita, Cundinamarca"
+117,9,2,9,2017,San Andres y Providencia,San Andres,Regional,Green Moon Festival 2017 en San Andres
+118,12,8,8,,Colombia,Nacional,Festivo, Día de la Inmaculada Concepción
+119,3,28,28,,Colombia,Nacional,Festivo, Jueves Santo
+120,1,1,1,,Colombia,Nacional,Festivo, Año Nuevo
+121,7,1,1,,Colombia,Nacional,Festivo, Día de San Pedro y San Pablo
+122,6,10,10,,Colombia,Nacional,Festivo, Día del Sagrado Corazón
+123,11,11,11,,Colombia,Nacional,Festivo, Día de la Independencia de Cartagena
+124,5,13,13,,Colombia,Nacional,Festivo, Día de la Ascensión
+125,10,14,14,,Colombia,Nacional,Festivo, Día de la Raza
+126,8,19,19,,Colombia,Nacional,Festivo, Asunción de la Virgen
+127,3,25,25,,Colombia,Nacional,Festivo, Día de San José
+128,6,3,3,,Colombia,Nacional,Festivo, Corpus Christi
+129,11,4,4,,Colombia,Nacional,Festivo, Día de todos los Santos
+130,1,8,8,,Colombia,Nacional,Festivo, Día de los Reyes Magos
+131,5,1,1,,Colombia,Nacional,Festivo, Día del Trabajo
+132,12,25,25,,Colombia,Nacional,Festivo, Navidad
+133,8,7,7,,Colombia,Nacional,Festivo, Batalla de Boyacá
+134,7,20,20,,Colombia,Nacional,Festivo, Día de la Independencia de Colombia
+135,3,29,29,,Colombia,Nacional,Festivo, Viernes Santo
